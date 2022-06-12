@@ -10,23 +10,18 @@
     <title>Northdan Soft</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png" />
 
-    <!-- Google Tag Manager -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-57H0C9V195"></script>
     <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                "gtm.start": new Date().getTime(),
-                event: "gtm.js"
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != "dataLayer" ? "&l=" + l : "";
-            j.async = true;
-            j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, "script", "dataLayer", "G-57H0C9V195");
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+
+        gtag("config", "G-57H0C9V195");
     </script>
-    <!-- End Google Tag Manager -->
 
     <!--Core CSS -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
@@ -35,10 +30,6 @@
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-57H0C9V195" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
 
     <!-- Hero and nav -->
     <div class="hero animated-hero is-relative is-theme-primary has-waves-bottom" data-page-theme="night">
@@ -132,7 +123,7 @@
             <!-- Feature -->
             <div class="columns is-vcentered mt-60 mb-60">
                 <div class="column is-7 has-text-centered is-hidden-desktop is-hidden-tablet">
-                    <img alt="" class="featured-image has-light-shadow" data-lazy-load data-src="assets/img/graphics/compositions/drawing-bw-7-night.svg" />
+                    <img alt="" class="featured-image" data-lazy-load data-src="assets/img/graphics/compositions/drawing-bw-7-night.svg" />
                 </div>
                 <div class="column is-5">
                     <h2 class="title feature-title dark-text no-margin is-centered-tablet-portrait">
