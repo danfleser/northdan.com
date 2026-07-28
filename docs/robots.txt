@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://northdan.com/sitemap.xml
