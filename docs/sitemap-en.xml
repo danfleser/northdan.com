@@ -9,6 +9,8 @@
   <url><loc>https://northdan.com/en/glossary/</loc></url>
   <url><loc>https://northdan.com/en/eu-funding/</loc></url>
   <url><loc>https://northdan.com/en/eu-funding/packages/</loc></url>
+  <url><loc>https://northdan.com/en/privacy/</loc></url>
+  <url><loc>https://northdan.com/en/cookies/</loc></url>
   <url><loc>https://northdan.com/en/services/ai-agents/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/services/data-analytics/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/services/mobile-apps/</loc><lastmod>2026-11-18</lastmod></url>
@@ -16,7 +18,7 @@
   <url><loc>https://northdan.com/en/services/web-applications/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/services/process-automation/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/services/chatbot-development/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/services/it-consulting/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/services/it-consulting/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/services/website-development/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/services/crm/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/services/mvp-development/</loc><lastmod>2026-11-18</lastmod></url>
@@ -40,13 +42,13 @@
   <url><loc>https://northdan.com/en/services/software-testing/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/services/web-design/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/industries/agriculture/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/industries/construction/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/industries/construction/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/industries/accounting/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/industries/distribution/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/industries/distribution/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/industries/education/</loc><lastmod>2026-07-31</lastmod></url>
   <url><loc>https://northdan.com/en/industries/fitness/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/industries/horeca/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/industries/hr/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/industries/hr/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/industries/real-estate/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/industries/legal/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/industries/healthcare/</loc><lastmod>2026-11-18</lastmod></url>
@@ -56,7 +58,7 @@
   <url><loc>https://northdan.com/en/industries/beauty-salons/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/industries/auto-repair/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/industries/transport-logistics/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/industries/tourism/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/industries/tourism/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/technologies/angular/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/technologies/rest-api/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/technologies/aws/</loc><lastmod>2026-11-18</lastmod></url>
@@ -97,7 +99,7 @@
   <url><loc>https://northdan.com/en/technologies/vuejs/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/technologies/woocommerce/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/technologies/wordpress/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/pricing/rpa-automation-cost/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/pricing/rpa-automation-cost/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/small-business-digitalization-cost/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/website-hosting-cost/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/e-invoicing-integration-cost-romania/</loc><lastmod>2026-11-18</lastmod></url>
@@ -113,7 +115,7 @@
   <url><loc>https://northdan.com/en/pricing/website-redesign-cost/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/seo-cost-romania/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/ai-chatbot-cost/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/pricing/crm-implementation-cost/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/pricing/crm-implementation-cost/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/domain-name-cost/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/erp-implementation-cost/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/pricing/logo-and-brand-identity-cost/</loc><lastmod>2026-11-18</lastmod></url>
@@ -138,7 +140,7 @@
   <url><loc>https://northdan.com/en/comparisons/cloud-vs-on-premise/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/comparisons/off-the-shelf-crm-vs-custom-crm/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/comparisons/erp-vs-crm/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/comparisons/erp-vs-excel-spreadsheets/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/comparisons/erp-vs-excel-spreadsheets/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/comparisons/outsourcing-vs-hiring-developers/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/comparisons/firebase-vs-supabase/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/comparisons/flutter-vs-react-native/</loc><lastmod>2026-11-18</lastmod></url>
@@ -329,7 +331,7 @@
   <url><loc>https://northdan.com/en/glossary/lms/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/load-balancer/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/low-code/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/glossary/machine-learning/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/glossary/machine-learning/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/malware/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/document-management/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/password-manager/</loc><lastmod>2026-11-18</lastmod></url>
@@ -419,7 +421,7 @@
   <url><loc>https://northdan.com/en/glossary/spv/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/spyware/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/sql/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/glossary/srm/</loc><lastmod>2026-07-29</lastmod></url>
+  <url><loc>https://northdan.com/en/glossary/srm/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/ssg/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/ssl/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/glossary/ssr/</loc><lastmod>2026-07-29</lastmod></url>
@@ -502,7 +504,7 @@
   <url><loc>https://northdan.com/en/eu-funding/custom-software-development-eligible-cost/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/grant-vs-guaranteed-loan-digitalization/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/digital-europe-programme/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/eu-funding/sme-digitalization-grants-bucharest-ilfov/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/eu-funding/sme-digitalization-grants-bucharest-ilfov/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/sme-digitalization-grants-centru/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/sme-digitalization-grants-north-east/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/sme-digitalization-grants-north-west/</loc><lastmod>2026-11-18</lastmod></url>
@@ -536,7 +538,7 @@
   <url><loc>https://northdan.com/en/eu-funding/eu-funding-mobile-apps/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/eu-funding-cloud-adoption/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/eu-funding-cybersecurity/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/eu-funding/eu-grants-digitalization-sme-2026/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/eu-funding/eu-grants-digitalization-sme-2026/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/eu-funding-it-companies/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/eu-funding-artificial-intelligence/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/eu-funding-online-store/</loc><lastmod>2026-11-18</lastmod></url>
@@ -548,7 +550,7 @@
   <url><loc>https://northdan.com/en/eu-funding/software-grants-romania/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/software-vendor-eu-funded-projects/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/micro-enterprise-digitalization-grant/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/eu-funding/digitalization-grants-2026/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/eu-funding/digitalization-grants-2026/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/sme-grants-romania-2026/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/software-dossier-mistakes/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/guaranteed-loan-digitalization/</loc><lastmod>2026-11-18</lastmod></url>
@@ -559,17 +561,17 @@
   <url><loc>https://northdan.com/en/eu-funding/microindustrialization-2023/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/microindustrialization-programme-2026/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/technical-offer-software-funding-dossier/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/eu-funding/eu-funds-for-companies-romania/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/eu-funding/eu-funds-for-companies-romania/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/peo-digital-skills-call/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/business-plan-software-component/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pndr-6-2-non-agricultural-businesses/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pndr-6-4-non-agricultural-investments/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pnrr-digital-skills-sme/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/eu-funding/pnrr-sme-digitalization-grants/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/eu-funding/pnrr-sme-digitalization-grants/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pnrr-ngo-digitalization-grants/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pnrr-recovery-plan-for-companies/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pnrr-advanced-digital-technologies/</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://northdan.com/en/eu-funding/pns-afir-farm-digitalization/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://northdan.com/en/eu-funding/pns-afir-farm-digitalization/</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pns-dr-12-young-farmers/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pns-dr-14-small-farms/</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://northdan.com/en/eu-funding/pns-dr-18-floriculture-medicinal-plants/</loc><lastmod>2026-11-18</lastmod></url>
